@@ -7,7 +7,7 @@ The primary audience of this training is:
 
 ## Objectives
 
-These objectives express the tasks we will accomplishd:
+These objectives express the tasks we will accomplish:
 
 - [ ] Discuss the permissions model of GitHub
 - [ ] Review the **configuration of the customer's enterprise account** providing recommendations
