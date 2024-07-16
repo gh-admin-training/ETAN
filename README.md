@@ -1,4 +1,4 @@
-# GitHub Administration Training
+# Sabre Administration Training
 
 The primary audience of this training is:
 
