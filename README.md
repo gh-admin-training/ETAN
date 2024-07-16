@@ -1,4 +1,4 @@
-# GitHub Admin Training
+# GitHub Administration Training
 
 The primary audience of this training is:
 
